@@ -67,6 +67,8 @@ Profit=SUMIFS('Sales Data'!$K:$K,'Sales Data'!$U:$U,Working!$B4,'Sales Data'!$F:
 
 
 
+
+
 ## References
 - Simplilearn Business Analytics with Excel Certification Training
 - ChatGPT 4o
