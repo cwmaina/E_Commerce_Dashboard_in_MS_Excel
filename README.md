@@ -65,8 +65,21 @@ Profit=SUMIFS('Sales Data'!$K:$K,'Sales Data'!$U:$U,Working!$B4,'Sales Data'!$F:
 ## Results
 1. Histogram
 
+![1_Histogram](https://github.com/user-attachments/assets/c166bd59-6075-4188-9fd3-ef207544c96b)
 
+2. Table of sales and profit month wise in the working sheet filtered to 'Auto and Accessories'
 
+![2_Table_of_Sales_and_Profit_by_Month](https://github.com/user-attachments/assets/8d156110-28b8-4030-b93e-f181113558de)
+
+3.  User control combo box for the product category filtered to 'Auto and Accessories'
+
+![3_User_Control_Combo_Box](https://github.com/user-attachments/assets/036f1660-2465-4087-930b-828b56344a6b)
+
+4. Column Chart of the month-wise table and region-wise table filtered to 'Auto and Accessories'
+
+![4_Column_Chart_Month_Wise](https://github.com/user-attachments/assets/6508de55-605f-4d48-9509-7b5210bc7660)
+
+![4_Column_Chart_Region_Wise](https://github.com/user-attachments/assets/e35a25fd-a3f9-4b05-b46d-889142784e93)
 
 
 ## References
